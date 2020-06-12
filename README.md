@@ -25,10 +25,12 @@ Submitted by: **Rodolfo Kamikabeya**
 
 ### App Walkthough GIF
 
-**Portrait mode
+**Portrait mode**
+
 <img src="walkthrough.gif" width=250><br>
 
-**Landscape mode
+**Landscape mode**
+
 <img src="walkthrough2.gif" width=500><br>
 
 ### Notes
